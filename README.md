@@ -9,7 +9,7 @@ Users should be able to:
 
 ### Screenshot
 
-![] (./public/Screenshot.jpeg)
+! [] (./public/Screenshot.jpeg)
 
 ### Built with
 
